@@ -63,7 +63,7 @@ export const PROJECTS = [
   },
   {
     title: "Portfolio Website",
-    image: project3.jpg, // Replace with actual image path
+    image: project3, // Replace with actual image path
     description: `A personal portfolio website showcasing projects, skills, and contact information.`,
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
